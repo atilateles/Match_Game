@@ -9,7 +9,7 @@ An animal matching game, where a player is shown a grid of 16 animals and needs 
 
 ### Screenshot
 
-![screenshot](<img src="Images/screenshot.jpg")
+![screenshot](./Images/screenshot.jpg)
 
 ### Built with
 
